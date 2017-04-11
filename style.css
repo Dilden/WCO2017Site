@@ -16,6 +16,15 @@ article,aside,details,figcaption,figure,footer,header,img,main,menu,nav,section,
 	display: block;
 }
 
+nav.main-navigation .menu li {
+	list-style:none;
+	display:inline-block;
+}
+
+nav.main-navigation .menu li ul.children {
+	display:none;
+}
+
 a,a:visited,input[type=submit] {
 	transition: color .15s ease-in-out, background .15s ease-in-out;
 }
