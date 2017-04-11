@@ -1,7 +1,7 @@
-/* Remote CSS from https://api.github.com/repos/scottsweb/wceu-2016-css/contents/css/styles.min.css */
+/* Remote CSS from https://github.com/robruiz/WCO2017Site.git/styles.css */
 /*!
 
-Do not modify this CSS on WordCamp.org. It is being built from: https://github.com/scottsweb/wceu-2016-css
+Do not modify this CSS on WordCamp.org. It is being built from: https://github.com/robruiz/WCO2017Site.git
 
 */
 img,legend {
@@ -19,6 +19,11 @@ article,aside,details,figcaption,figure,footer,header,img,main,menu,nav,section,
 nav.main-navigation .menu li {
 	list-style:none;
 	display:inline-block;
+	padding:0 10px;
+}
+
+nav.main-navigation .menu ul {
+	margin:0 20px;
 }
 
 nav.main-navigation .menu li ul.children {
