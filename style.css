@@ -1530,14 +1530,14 @@ select[name=tix_payment_method] {
 
 @media screen and (min-width:960px) {
 	#masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery.png') center 100px repeat-x fixed #eef2f2;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery.png') center 100px repeat-x fixed #eef2f2;
 		background-size: auto, auto;
 	}
 }
 
 @media only screen and (min-width:960px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:960px) and (min-resolution:192dpi),only screen and (min-width:960px) and (min-resolution:2dppx) {
 	#masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile@2x.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') left 100px repeat-x fixed #eef2f2;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') left 100px repeat-x fixed #eef2f2;
 		background-size: 640px 560px, 1183px 271px;
 	}
 }
@@ -1552,13 +1552,13 @@ select[name=tix_payment_method] {
 
 .home #masthead hgroup {
 	height: 100%;
-	background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile.png') center bottom repeat-x fixed #eef2f2;
+	background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile.png') center bottom repeat-x fixed #eef2f2;
 	background-size: auto, auto;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
 	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-mobile@2x.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile@2x.png') center bottom repeat-x fixed #eef2f2;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile@2x.png') center bottom repeat-x fixed #eef2f2;
 		background-size: 640px 560px, 640px 560px;
 	}
 }
@@ -1576,14 +1576,14 @@ select[name=tix_payment_method] {
 	}
 	
 	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery.png') center bottom repeat-x fixed #eef2f2;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery.png') center bottom repeat-x fixed #eef2f2;
 		background-size: auto, auto;
 	}
 }
 
 @media only screen and (min-width:600px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:600px) and (min-resolution:192dpi),only screen and (min-width:600px) and (min-resolution:2dppx) {
 	.home #masthead hgroup {
-		background: url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration@2x.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery@2x.png') center bottom repeat-x fixed #eef2f2;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery@2x.png') center bottom repeat-x fixed #eef2f2;
 		background-size: 1183px 560px, 1183px 560px;
 	}
 }
