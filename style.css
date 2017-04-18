@@ -1633,7 +1633,7 @@ select[name=tix_payment_method] {
 	height: 100px;
 	margin-left: -61px;
 	content: '';
-	background-image: url('https://europe.wordcamp.org/2016/files/2015/12/logo-wceu-2016.png');
+	/*background-image: url('https://europe.wordcamp.org/2016/files/2015/12/logo-wceu-2016.png');*/
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
