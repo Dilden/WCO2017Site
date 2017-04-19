@@ -1572,7 +1572,7 @@ select[name=tix_payment_method] {
 
 @media screen and (min-width:600px) {
 	#masthead {
-		padding-top: 60px;
+/* 		padding-top: 60px; */
 	}
 	
 	.home #masthead hgroup {
