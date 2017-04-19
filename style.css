@@ -1537,8 +1537,8 @@ select[name=tix_payment_method] {
 
 @media only screen and (min-width:960px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:960px) and (min-resolution:192dpi),only screen and (min-width:960px) and (min-resolution:2dppx) {
 	#masthead hgroup {
-		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') left 100px repeat-x fixed #eef2f2;
-		background-size: 640px 560px, 1183px 271px;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-interior.png') right bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/illustration-scenery@2x.png') left 100px repeat-x fixed #eef2f2;
+		background-size: 1400px 300px, 1183px 271px;
 	}
 }
 
@@ -1559,7 +1559,7 @@ select[name=tix_payment_method] {
 @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
 	.home #masthead hgroup {
 		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery-mobile@2x.png') center bottom repeat-x fixed #eef2f2;
-		background-size: 640px 560px, 640px 560px;
+		background-size: 640px 300px, 640px 560px;
 	}
 }
 
