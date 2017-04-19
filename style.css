@@ -1584,7 +1584,7 @@ select[name=tix_payment_method] {
 @media only screen and (min-width:600px) and (-webkit-min-device-pixel-ratio:2),only screen and (min-width:600px) and (min-resolution:192dpi),only screen and (min-width:600px) and (min-resolution:2dppx) {
 	.home #masthead hgroup {
 		background: url('https://2017.omaha.wordcamp.org/files/2017/04/omahaSkyline-final.png') center bottom no-repeat, url('https://europe.wordcamp.org/2016/files/2015/11/home-illustration-scenery@2x.png') center bottom repeat-x fixed #eef2f2;
-		background-size: 1183px 560px, 1183px 560px;
+		background-size: 1400px 560px, 1183px 560px;
 	}
 }
 
