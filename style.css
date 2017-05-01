@@ -1266,10 +1266,6 @@ body.admin-bar #tix {
 	background: 0 0;
 }
 
-.wcorg-sponsors .wcorg-sponsor .wcorg-sponsor-description p,.wcorg-sponsors .wcorg-sponsor h3 {
-	display: none;
-}
-
 .wcorg-sponsors .wcorg-sponsor-level-administrator::after,.wcorg-sponsors .wcorg-sponsor-level-after-party::after,.wcorg-sponsors .wcorg-sponsor-level-author::after,.wcorg-sponsors .wcorg-sponsor-level-editor::after,.wcorg-sponsors .wcorg-sponsor-level-microsponsor::after,.wcorg-sponsors .wcorg-sponsor-level-small-business::after,.wcorg-sponsors .wcorg-sponsor-level-speakers-dinner::after,.wcorg-sponsors .wcorg-sponsor-level-subscriber::after,.wcorg-sponsors .wcorg-sponsor-level-super-admin::after {
 	display: table;
 	content: '';
