@@ -1654,7 +1654,7 @@ h2.site-description {
 
 @media screen and (min-width:960px) {
 	.site-header hgroup {
-		padding-top: 100px;
+		padding-top: 30px;
 		padding-left: 100px;
 		text-align: left;
 	}
