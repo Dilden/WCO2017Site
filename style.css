@@ -260,7 +260,7 @@ fieldset {
 
 a,a:visited {
 	text-decoration: none;
-	color: #c33;
+	color: #5ccce4;
 }
 
 a:active,a:hover,a:visited:hover {
@@ -2508,7 +2508,7 @@ h2.site-description {
 	text-indent: -99999px;
 	color: #fff;
 	border-radius: 50%;
-	background-color: #c33;
+	background-color: #5ccce4;
 	background-image: url('https://europe.wordcamp.org/2016/files/2015/11/wordpress-footer-logo.png');
 	background-repeat: no-repeat;
 	background-position: center;
@@ -2525,7 +2525,7 @@ h2.site-description {
 	margin-bottom: -30px;
 	margin-left: -15px;
 	content: '';
-	background: #c33;
+	background: #5ccce4;
 }
 
 .site-info .site-info-network:hover,.site-info .site-info-network:hover:after {
