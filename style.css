@@ -1504,7 +1504,7 @@ h2.site-description {
     text-align: center;
     background-repeat: no-repeat !important;
     background: url(https://2017.omaha.wordcamp.org/files/2017/05/logo-landscape-trans.png);
-    background-position-x: 50%;
+    background-position: 50%;
     text-indent: -9999px;
     margin-left: auto;
     background-size: contain;
