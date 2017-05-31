@@ -1591,6 +1591,7 @@ h2.site-description {
 	.home #masthead hgroup {
 		background: url('https://2017.omaha.wordcamp.org/files/2017/05/omahaSkyline-final2.png') center bottom no-repeat, url('https://2017.omaha.wordcamp.org/files/2017/05/home-illustration-scenery2.png') center bottom repeat-x fixed #5CCCE4;
 		background-size: contain;
+		background-position: 0px 20px;
 	}
 }
 
