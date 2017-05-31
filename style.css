@@ -1543,8 +1543,9 @@ h2.site-description {
 
 @media screen and (min-width:960px) {
 	#masthead hgroup {
-		background: url('https://2017.omaha.wordcamp.org/files/2017/05/omahaSkyline-final2.png.png') right bottom no-repeat, url('https://2017.omaha.wordcamp.org/files/2017/05/home-illustration-scenery2.png') center 100px repeat-x fixed #eef2f2;
-		background-size: 600px, 260px;
+		background: url('https://2017.omaha.wordcamp.org/files/2017/05/omahaSkyline-final2.png.png') right bottom no-repeat, url('https://2017.omaha.wordcamp.org/files/2017/05/home-illustration-scenery2.png') center 100px repeat-x fixed #b9def3;
+		background-size: 50%, 50%;
+		background-position:0 -7%;
 	}
 }
 
