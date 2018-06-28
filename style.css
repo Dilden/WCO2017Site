@@ -220,7 +220,7 @@ a img {
 	border-radius: 0;
 	border: solid 4px #fd4230;
 }
-#main .wcorg-sponsor-description img {
+#main #primary .wcorg-sponsor-description img {
 	border: none;
 }
 
