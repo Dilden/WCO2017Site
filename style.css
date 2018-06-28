@@ -1459,8 +1459,8 @@ h2.site-description {
 }
 
 #masthead .site-title a {
-	width: 50%;
-    height: 175px;
+	width: 300px;
+    height: 300px;
     text-align: center;
     background-repeat: no-repeat !important;
     background: url(https://2017.omaha.wordcamp.org/files/2017/05/logo-landscape-trans.png);
@@ -1528,6 +1528,7 @@ h2.site-description {
 	height: 100%;
 	background: url('https://2017.omaha.wordcamp.org/files/2017/05/omahaSkyline-final2.png') center bottom no-repeat, url('https://2017.omaha.wordcamp.org/files/2017/05/home-illustration-scenery-mobile2@.png') center bottom repeat-x fixed #5CCCE4;
 	background-size: auto, auto;
+	padding-top: 30px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
