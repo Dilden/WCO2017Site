@@ -75,31 +75,31 @@ hr,table tbody tr:nth-child(odd) {
 }
 
 @font-face {
-	font-family: 'Open Sans';
+	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 400;
-	src: local('Open Sans'), local('OpenSans'), format("truetype");
+	src: local('Poppins'), local('OpenSans'), format("truetype");
 }
 
 @font-face {
-	font-family: 'Open Sans';
+	font-family: 'Poppins';
 	font-style: normal;
 	font-weight: 600;
-	src: local('Open Sans Semibold'), local('OpenSans-Semibold'), format("truetype");
+	src: local('Poppins Semibold'), local('OpenSans-Semibold'), format("truetype");
 }
 
 @font-face {
-	font-family: 'Open Sans';
+	font-family: 'Poppins';
 	font-style: italic;
 	font-weight: 400;
-	src: local('Open Sans Italic'), local('OpenSans-Italic'), format("truetype");
+	src: local('Poppins Italic'), local('OpenSans-Italic'), format("truetype");
 }
 
 @font-face {
-	font-family: 'Open Sans';
+	font-family: 'Poppins';
 	font-style: italic;
 	font-weight: 600;
-	src: local('Open Sans Semibold Italic'), local('OpenSans-SemiboldItalic'), format("truetype");
+	src: local('Poppins Semibold Italic'), local('OpenSans-SemiboldItalic'), format("truetype");
 }
 
 html {
@@ -420,7 +420,7 @@ hr {
 
 body {
 	margin: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	color: #2f3436;
 }
 
