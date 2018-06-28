@@ -159,14 +159,18 @@ button {
 	overflow: visible;
 }
 
-button.btn {
+html button.btn {
 	background: #001daa;
 	box-shadow: none;
 	text-shadow: none;
+	transition: all .25s;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 button.btn:hover {
 	color: #fd4230;
+	background: #2545de;
 }
 
 button,select {
