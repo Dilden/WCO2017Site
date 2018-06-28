@@ -2246,8 +2246,8 @@ h2.site-description {
 	margin-bottom: 2.85714%;
 }
 
-aside.wcb_widget_sponsors {
-	text-aling: center;
+#wcb_sponsors-2.wcb_widget_sponsors {
+	text-align: center;
 }
 
 .wcb_widget_sponsors .sponsor-level-title {
