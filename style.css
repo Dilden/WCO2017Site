@@ -216,10 +216,14 @@ a img {
 	border: none;
 }
 
-#main #primary img {
+#main img {
 	border-radius: 0;
 	border: solid 4px #fd4230;
 }
+#main .wcorg-sponsor-description img {
+	border: none;
+}
+
 
 ol,ul {
 	margin-left: 5.71429%;
