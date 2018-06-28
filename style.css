@@ -2286,14 +2286,9 @@ h2.site-description {
 	background: #eef2f2;
 }
 
-.wcb_widget_sponsors img {
+.site-footer .wcb_widget_sponsors img:hover {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
-}
-
-.wcb_widget_sponsors img:hover {
-	-webkit-filter: none;
-	filter: none;
 }
 
 .wcb_widget_sponsors .sponsor-level {
