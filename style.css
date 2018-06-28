@@ -1458,7 +1458,7 @@ h2.site-description {
 	text-indent: -9999px;
 }
 
-#masthead .site-title a {
+body #masthead .site-title a {
 	width: 300px;
     height: 300px;
     text-align: center;
