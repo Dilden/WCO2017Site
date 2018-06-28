@@ -46,61 +46,6 @@ hr,table tbody tr:nth-child(odd) {
 	content: '';
 }
 
-@font-face {
-	font-family: Lato;
-	font-style: normal;
-	font-weight: 400;
-	src: local('Lato Regular'), local('Lato-Regular'), format("truetype");
-}
-
-@font-face {
-	font-family: Lato;
-	font-style: normal;
-	font-weight: 700;
-	src: local('Lato Bold'), local('Lato-Bold'), format("truetype");
-}
-
-@font-face {
-	font-family: Lato;
-	font-style: italic;
-	font-weight: 700;
-	src: local('Lato Bold Italic'), local('Lato-BoldItalic'), format("truetype");
-}
-
-@font-face {
-	font-family: Lobster;
-	font-style: normal;
-	font-weight: 400;
-	src: local('Lobster'), local('Lobster-Regular'), format("truetype");
-}
-
-@font-face {
-	font-family: 'Poppins';
-	font-style: normal;
-	font-weight: 400;
-	src: local('Poppins'), local('OpenSans'), format("truetype");
-}
-
-@font-face {
-	font-family: 'Poppins';
-	font-style: normal;
-	font-weight: 600;
-	src: local('Poppins Semibold'), local('OpenSans-Semibold'), format("truetype");
-}
-
-@font-face {
-	font-family: 'Poppins';
-	font-style: italic;
-	font-weight: 400;
-	src: local('Poppins Italic'), local('OpenSans-Italic'), format("truetype");
-}
-
-@font-face {
-	font-family: 'Poppins';
-	font-style: italic;
-	font-weight: 600;
-	src: local('Poppins Semibold Italic'), local('OpenSans-SemiboldItalic'), format("truetype");
-}
 
 html {
 	font-family: sans-serif;
@@ -425,7 +370,7 @@ body {
 }
 
 #tix-attendees .tix-attendee-name,.comment-author,.main-navigation,.main-small-navigation,h1,h2,h3,h4,h5,h6 {
-	font-family: Lato, sans-serif;
+	font-family: Poppins, sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
