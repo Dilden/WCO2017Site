@@ -299,19 +299,23 @@ iframe {
 	margin-bottom: -5px;
 }
 
-input[type=submit] {
+.entry-content input[type=submit] {
 	display: inline-block;
 	padding: 7px 15px;
 	text-align: center;
 	color: #fff !important;
 	border: none;
 	border-radius: 30px;
-	background: #c33 !important;
+	background: #fd4230 !important;
+	text-shadow: none;
+	box-shadow: none;
+	text-transform: uppercase;
+	font-weight: 700;
 }
 
-input[type=submit]:hover {
+.entry-content input[type=submit]:hover {
 	color: #fff !important;
-	background: #75baac !important;
+	background: #001daa !important;
 }
 
 #subscribe-email input,input[type=email],input[type=text],input[type=url] {
