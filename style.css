@@ -50,7 +50,7 @@ hr,table tbody tr:nth-child(odd) {
 
 
 html {
-	font-family: Poppins !important;
+	font-family: "Poppins" !important;
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 	box-sizing: border-box;
