@@ -216,7 +216,7 @@ a img {
 	border: none;
 }
 
-#main img {
+#main #primary img {
 	border-radius: 0;
 	border: solid 4px #fd4230;
 }
