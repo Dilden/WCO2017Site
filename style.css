@@ -1566,8 +1566,13 @@ h2.site-description {
 
 .home #masthead hgroup {
 	height: 100%;
-	background: url('https://2017.omaha.wordcamp.org/files/2017/05/omahaSkyline-final2.png') center bottom no-repeat, url('https://2017.omaha.wordcamp.org/files/2017/05/home-illustration-scenery-mobile2@.png') center bottom repeat-x fixed #5CCCE4;
-	background-size: auto, auto;
+	/*background: url('https://2017.omaha.wordcamp.org/files/2017/05/omahaSkyline-final2.png') center bottom no-repeat, url('https://2017.omaha.wordcamp.org/files/2017/05/home-illustration-scenery-mobile2@.png') center bottom repeat-x fixed #5CCCE4;
+	background-size: auto, auto;*/
+	background: #001daa; /* Old browsers */
+	background: -moz-linear-gradient(top, #001daa 0%, #fd4230 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #001daa 0%,#fd4230 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #001daa 0%,#fd4230 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001daa', endColorstr='#fd4230',GradientType=0 ); /* IE6-9 */
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx) {
