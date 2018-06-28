@@ -2236,14 +2236,18 @@ h2.site-description {
 	content: ' ';
 }
 
-#footer-widgets .widget-title {
+.site-footer #footer-widgets .widget-title {
 	margin-top: 0;
-	margin-bottom: 8.57143%;
+	margin-bottom: 0;
 	text-align: center;
 }
 
 .footer-widgets-block {
 	margin-bottom: 2.85714%;
+}
+
+#wcb_sponsors-2.wcb_widget_sponsors {
+	text-aling: center;
 }
 
 .wcb_widget_sponsors .sponsor-level-title {
