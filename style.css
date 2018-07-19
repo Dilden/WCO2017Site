@@ -1051,6 +1051,10 @@ body.page img:hover {
 	border-radius: 50% !important;
 }
 
+.wcorg-organizer img.avatar-default,.wcorg-speaker img.avatar-default {
+	display: none;
+}
+
 .single-wcb_speaker .wcb_speaker .entry-meta {
 	display: none;
 }
