@@ -186,6 +186,15 @@ button,select {
 	text-transform: capitalize;
 }
 
+.widget_wcorg_mailchimp_wiget {
+	text-align: center;
+
+}
+
+.widget_wcorg_mailchimp_wiget input[type=submit] {
+	margin: 15px auto;
+}
+
 button,html input[type=button],input[type=reset],input[type=submit] {
 	cursor: pointer;
 	-webkit-appearance: button;
@@ -303,7 +312,7 @@ iframe {
 	margin-bottom: -5px;
 }
 
-.entry-content input[type=submit] {
+.entry-content input[type=submit], .widget_wcorg_mailchimp_wiget input[type=submit] {
 	display: inline-block;
 	padding: 11px 30px;
 	text-align: center;
@@ -317,7 +326,7 @@ iframe {
 	font-weight: 700;
 }
 
-.entry-content input[type=submit]:hover {
+.entry-content input[type=submit]:hover, .widget_wcorg_mailchimp_wiget input[type=submit] {
 	color: #fff !important;
 	background: #001daa !important;
 }
