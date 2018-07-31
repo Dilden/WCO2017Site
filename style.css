@@ -1357,11 +1357,11 @@ body.admin-bar #tix {
 	border-radius: 0;
 }
 
-.single-wcb_sponsor #main .entry-title {
+body.single-wcb_sponsor #main .entry-title {
 	display: none;
 }
 
-.single-wcb_sponsor #main .wp-post-image {
+body.single-wcb_sponsor #main .wp-post-image {
 	position: relative;
 	top: 0;
 	margin: 20px auto;
