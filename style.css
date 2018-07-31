@@ -1358,16 +1358,13 @@ body.admin-bar #tix {
 }
 
 .single-wcb_sponsor #main .entry-title {
-	position: relative;
-	top: -250px;
-	text-align: center;
+	display: none;
 }
 
 .single-wcb_sponsor #main .wp-post-image {
 	position: relative;
-	top: 90px;
-	margin-right: auto;
-	margin-left: auto;
+	top: 0;
+	margin: 20px auto;
 }
 
 .contact-submit {
